@@ -2,7 +2,7 @@
  * IncFile2.h
  *
  * Created: 04/07/2020 07:34:02 ص
- *  Author: Ali
+ *  Author: omer
  */ 
 
 
